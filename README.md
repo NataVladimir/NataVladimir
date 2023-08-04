@@ -6,9 +6,8 @@
 
   ##
 
-<a href="https://github.com/NataVladimir/github-readme-stats">
-  <img height=300 width= 400 align="center" src="https://github-readme-stats.vercel.app/api?username=NataVladimir&show_icons=true&theme=radical"/>
-  <img height=300 width= 350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NataVladimir&show_icons=true&theme=radical&layout=compact&langs_count=8"/>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NataVladimir&theme=dark&layout=compact&langs_count=8&card_width=400" />
 </a>
 
 ##
