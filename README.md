@@ -11,7 +11,6 @@
   <img height=300 width= 350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NataVladimir&show_icons=true&theme=radical&layout=compact&langs_count=8"/>
 </a>
 
-&card_width=200
 ##
 
 <div style="display: incline_block"><br>    
