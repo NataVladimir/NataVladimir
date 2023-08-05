@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Natã Vladimir 👋
 
 - 🧠 Innovation distinguishes a leader from a follower.
-- 👱‍♂‍ iOS Developer
 - 📱 Projetos mobile.
 
   ##
